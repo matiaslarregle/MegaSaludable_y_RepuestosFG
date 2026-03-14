@@ -1,1 +1,1 @@
-
+Aplicación interactiva desarrollada en **Python y Streamlit** para optimizar la gestión de inventario en un negocio de venta de repuestos. La herramienta consolida datos de múltiples fuentes (archivos **DBF** del sistema de gestión y listas de precios en **Excel**) en un único sistema de búsqueda y análisis.
