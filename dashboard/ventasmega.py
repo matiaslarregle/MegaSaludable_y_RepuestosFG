@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import seaborn as sns
 
-df = pd.read_csv("megasaludableventas.csv")
+df = pd.read_csv("dashboard/megasaludableventas.csv")
 df['Fecha'] = pd.to_datetime(df['Fecha'])
 
 st.title("Dashboard de Ventas Megasaludable")
@@ -280,7 +280,7 @@ ax4.text(
 ax20 = fig.add_subplot(gs[0,3:4])
 ax20.clear()
 ax20.axis('off')
-logo_path = "megasaludble.jpg"
+logo_path = "dashboard/megasaludble.jpg"
 logo_img = mpimg.imread(logo_path)
 ax20.imshow(logo_img)
 
