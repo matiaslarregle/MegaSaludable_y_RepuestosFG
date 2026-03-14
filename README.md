@@ -1,1 +1,1 @@
-[Ver gráfico interactivo](grafico_productos.html)
+![Ver gráfico interactivo](grafico_productos.html)
