@@ -1,4 +1,4 @@
-Este repositorio contiene herramientas de análisis de datos y automatización desarrolladas para los negocios Mega Saludable y Repuestos FG.
+ # Herramientas de análisis de datos y automatización aplicadas a los negocios Mega Saludable y Repuestos FG.
 
 ![Imagen del ranking de productos](ranking_productos.png)
 
