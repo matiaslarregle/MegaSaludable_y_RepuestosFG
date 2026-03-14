@@ -2,5 +2,5 @@
 
 ![Imagen del catálogo](catalogo_mega.png)
 
-https://catalogo-mega-saludable.streamlit.app/
+Link a la app de Streamlit: https://catalogo-mega-saludable.streamlit.app/
 
