@@ -1,1 +1,1 @@
-![Ver gráfico interactivo](grafico_productos.html)
+![Imagen del ranking de productos](ranking_productos.png)
