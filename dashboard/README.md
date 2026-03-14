@@ -1,1 +1,1 @@
-![Imagen del dashboard](megasaludble.jpg)
+![Imagen del dashboard](dashboardejemplo.png)
